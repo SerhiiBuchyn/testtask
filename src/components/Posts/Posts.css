@@ -1,6 +1,7 @@
 .posts__wrapper {
   background: var(--silver);
   display: flex;
+  width: 100%;
 }
 
 .post__wrap {
